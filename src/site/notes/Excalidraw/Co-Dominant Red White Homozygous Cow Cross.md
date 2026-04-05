@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Excalidraw/Co-Dominant Red White Homozygous Cow Cross/","tags":["excalidraw"],"created":"2026-03-28T19:37:35.859-04:00","updated":"2026-04-05T17:45:32.585-04:00","dg-note-properties":{"excalidraw-plugin":"parsed","tags":["excalidraw"]}}
+{"dg-publish":true,"permalink":"/Excalidraw/Co-Dominant Red White Homozygous Cow Cross/","tags":["excalidraw"],"created":"2026-03-28T19:37:35.859-04:00","updated":"2026-04-05T18:04:14.056-04:00","dg-note-properties":{"excalidraw-plugin":"parsed","tags":["excalidraw"]}}
 ---
 
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
