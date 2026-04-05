@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Excalidraw/Mendell's Pea Plant Seven Traits/","tags":["excalidraw"],"created":"2026-03-05T02:35:02.446-05:00","updated":"2026-04-05T17:57:10.294-04:00","dg-note-properties":{"excalidraw-plugin":"parsed","tags":["excalidraw"]}}
+{"dg-publish":true,"permalink":"/Excalidraw/Mendell's Pea Plant Seven Traits/","tags":["excalidraw"],"created":"2026-03-05T02:35:02.446-05:00","updated":"2026-04-05T18:21:33.432-04:00","dg-note-properties":{"excalidraw-plugin":"parsed","tags":["excalidraw"]}}
 ---
 
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
