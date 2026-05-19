@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/4  - Indexes/INDEX/","tags":["gardenEntry"],"created":"2026-04-05T16:15:44.837-04:00","updated":"2026-05-18T02:14:58.130-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/4  - Indexes/INDEX/","tags":["gardenEntry"],"created":"2026-04-05T16:15:44.837-04:00","updated":"2026-05-19T05:55:11.614-04:00","dg-note-properties":{}}
 ---
 
 ##### Hub for learning at AY Jackson.... (Click on the desired spot)
 ###### [[Chemistry INDEX \| Chemistry Index]] (currently down)
-###### [[Biology INDEX \| Biology Index]] 
+###### [[4  - Indexes/Biology Index\| Biology Index]] 
 ###### [[Physics INDEX \| Physics Index]] (currently down)
 ###### [[Math Index \| Math Index ]] (currently down)
 ###### [[Accounting INDEX \| Accounting Index ]](currently down)
