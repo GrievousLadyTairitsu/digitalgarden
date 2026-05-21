@@ -1,23 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/4  - Indexes/Physic's Index/","tags":["gardenEntry"],"created":"2026-05-18T02:05:21.660-04:00","updated":"2026-05-20T19:48:52.208-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/4  - Indexes/Physic's Index/","created":"2026-05-18T02:05:21.660-04:00","updated":"2026-05-20T21:13:51.871-04:00","dg-note-properties":{}}
 ---
 
-##### Hub for learning at AY Jackson.... (Click on the desired spot)
-###### [[Chemistry INDEX \| Chemistry Index]] (currently down)
-###### [[4  - Indexes/Biology Index\| Biology Index]] 
-###### [[Physic's Index \| Physics Index]] (currently down)
-###### [[Math Index \| Math Index ]] (currently down)
-###### [[Accounting INDEX \| Accounting Index ]](currently down)
+# Gr 11. Physics (* Optional)
 
-###### Computer Science Index (inactive)
-###### History Index (inactive)
-###### Anthropology Sociology and Psychology Index (inactive)
-###### Law Index
-#### A few statements
-- $*$ indicates course OPTIONAL material that is RECOMMENDED given there is no TIME restraint
-- Please send any issues to my email at dbliu88@gmail.com 
-- In addition, if you want to help edit with this (ESP with the inactives..):
-	- 1. Obtain Obsidian Relay Plugin
-	- 2. DM me on Instagram (@daniel_liu73), Gmail or Discord (@db648597)
-	- 3. I'll hook you up to Relay so you can contribute (if this blows up, this will be on your EC, so stay tuned...)
-- I hope you find my notes useful, and remember; try your best (you got this!!!)
+| Unit 1 (Kinematics) | Unit 2 () | Unit 3 (Work-Energy) | Unit 4 (Electromagnetism)                                                            | Unit 5 (Sound) |
+| ------------------- | --------- | -------------------- | ------------------------------------------------------------------------------------ | -------------- |
+|                     |           |                      | [[EXAM REVIEWS/SUBJECT/Physics 11/4.0 Electrical Charge\|Electrical Charge]]                                         |                |
+|                     |           |                      | [[EXAM REVIEWS/SUBJECT/Physics 11/4.1 Electric Fields\|Electric Fields]]*                                            |                |
+|                     |           |                      | [[EXAM REVIEWS/SUBJECT/Physics 11/4.2 Electrical Potential\|Electrical Potential]]*                                  |                |
+|                     |           |                      | [[EXAM REVIEWS/SUBJECT/Physics 11/4.3 Voltage, Current and Ohms Law\|Voltage,Current,Ohms Law]]                      |                |
+|                     |           |                      | [[EXAM REVIEWS/SUBJECT/Physics 11/4.5 Applications to Circuits + Methods\|Circuits]]                                 |                |
+|                     |           |                      | [[EXAM REVIEWS/SUBJECT/Physics 11/4.4 Conductivity, Kirchhoff's Laws and Power\|Conductivity,Kirchoff's Laws,Power]] |                |
+|                     |           |                      | [[EXAM REVIEWS/SUBJECT/Physics 11/4.6 Electromagnetism\|Electromagnetism]]                                           |                |
+|                     |           |                      | [[EXAM REVIEWS/SUBJECT/Physics 11/4.7 Further Electromagnetism\|Electromagnetism Laws and Applications]]             |                |
+
+
+# Gr 12. Physics (*AP material)
