@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4  - Indexes/Physic's Index/","created":"2026-05-18T02:05:21.660-04:00","updated":"2026-05-21T20:24:18.563-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/4  - Indexes/Physic's Index/","created":"2026-05-18T02:05:21.660-04:00","updated":"2026-05-23T10:35:03.140-04:00","dg-note-properties":{}}
 ---
 
 # Gr 11. Physics (* Optional)
@@ -13,7 +13,7 @@
 |                     |           |                      | [[EXAM REVIEWS/SUBJECT/Physics 11/4.4 Conductivity, Kirchhoff's Laws and Power\|Conductivity,Kirchoff's Laws,Power]] |                |
 |                     |           |                      | [[EXAM REVIEWS/SUBJECT/Physics 11/4.5 Applications to Circuits + Methods\|Circuits]]                                 |                |
 |                     |           |                      | [[EXAM REVIEWS/SUBJECT/Physics 11/4.6 Electromagnetism\|Electromagnetism]]                                           |                |
-|                     |           |                      | [[EXAM REVIEWS/SUBJECT/Physics 11/4.7 Further Electromagnetism\|Electromagnetism Laws and Applications]]             |                |
+|                     |           |                      | [[EXAM REVIEWS/SUBJECT/Physics 11/4.7 Electromagnetic Induction\|Electromagnetic Induction]]                         |                |
 
 
 # Gr 12. Physics (*AP material)
