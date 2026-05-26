@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4  - Indexes/INDEX (powered by blocStudying...)/","tags":["gardenEntry"],"created":"2026-04-05T16:15:44.837-04:00","updated":"2026-05-21T20:58:59.465-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/4  - Indexes/INDEX (powered by blocStudying...)/","tags":["gardenEntry"],"created":"2026-04-05T16:15:44.837-04:00","updated":"2026-05-25T20:25:43.316-04:00","dg-note-properties":{}}
 ---
 
 ##### Hub for learning at AY Jackson.... (Click on the desired spot)
@@ -27,5 +27,6 @@ ___
 ---
 ##### Credit List (TY FOR HELPING ME OUT)
 - Selda Ebrahimi
-- ........
+- Joanna
+- Mandy Du
 
